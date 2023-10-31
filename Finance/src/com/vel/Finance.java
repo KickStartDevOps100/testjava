@@ -15,6 +15,8 @@ public class Finance {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Eclipse/GitHub!!!!");
 		System.out.println("Changed In GitHub!!!!");
+		
+		System.out.println("Changed In Eclipse!!!!");
 
 	}
 
